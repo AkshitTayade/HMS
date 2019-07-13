@@ -1,0 +1,8 @@
+Welcome to this project !
+
+Modules you'll need to install before :
+  @tkinter
+  @pymysql
+  @Pillow
+  
+This program covers all the CRUD operations.
