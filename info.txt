@@ -6,3 +6,6 @@ Modules you'll need to install before :
   @Pillow
   
 This program covers all the CRUD operations.
+
+Thanks for visiting !
+  #Platform - macintosh
